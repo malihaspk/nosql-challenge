@@ -1,7 +1,7 @@
 # Background
 In this Challenge we have been asked to evaluate some of the ratings data in food magazine, **Eat Safe, Love**, in order to help their journalists and food critics decide where to focus future articles. 
 
-# Challenge is divided into Three parts
+**Challenge is Divided into Three Parts**
 
 # Part 1: Database and Jupyter Notebook Set Up
 
